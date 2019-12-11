@@ -1,0 +1,5 @@
+postcode: W139QU 
+latitude: 51.500491 
+longitude: -0.315065
+nuts: Ealing
+admin ward: Northfield
