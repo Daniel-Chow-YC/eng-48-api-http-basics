@@ -11,7 +11,7 @@ We're going to be looking into the world of API's.
 # Task 
 
 1 - Play around with API and getting data
-2 - From a (your?) postcode retrieve the following data:
+2 - From a postcode retrieve the following data:
     - Lon
     - Lat
     - nuts
